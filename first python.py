@@ -1,0 +1,3 @@
+#plik python 
+
+print('hello')
